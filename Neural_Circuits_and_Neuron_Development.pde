@@ -1,7 +1,3 @@
-//ICS4UI | Unit 3 Project: Cellular Automaton
-//Guhan Iyer | October 23, 2022
-//Neural Circuits and Neuron Development
-
 //Changeable values
 int n = 100; //Number of columns and rows.
 float padding = 20; //Cell size/indentation.
